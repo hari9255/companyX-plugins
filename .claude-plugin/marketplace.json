@@ -1,0 +1,13 @@
+{
+  "name": "java-dev-kit",
+  "owner": {
+    "name": "hari9255"
+  },
+  "plugins": [
+    {
+      "name": "java-dev-kit",
+      "source": "./plugins/java-dev-kit",
+      "description": "Java development toolkit"
+    }
+  ]
+}
